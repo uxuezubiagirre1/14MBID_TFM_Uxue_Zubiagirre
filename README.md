@@ -20,7 +20,6 @@ interactivo desarrollado en Power BI.
 - `data/raw/` — Dataset financiero recopilado manualmente
 - `data/processed/` — Datasets integrados generados por el notebook
 - `data/outputs/` — Gráficos generados por Python incluidos en la memoria
-- `memoria/` — Memoria del TFM en formato PDF
 
 ## Requisitos
 
